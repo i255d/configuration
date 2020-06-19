@@ -1,0 +1,8 @@
+Folder PATH listing for volume OS
+Volume serial number is EAD5-BB70
+C:.
+└───infrastructure-as-code
+    ├───configuration
+    ├───environment
+    ├───execution
+    └───provisioning
